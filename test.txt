@@ -1,2 +1,4 @@
-bello
+Bello
 this is a nice book
+Chapter 1
+the book starts fine
